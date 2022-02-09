@@ -10,3 +10,8 @@ Aplikasi Pengumpulan Tugas Kelas Awangga
 7. git clone repo ini di folder kerja
 8. jalankan start.exe
 
+## Pengumpulan Tugas
+1. Lakukan fork terlebih dahulu
+2. Masuk ke folder mata kuliah
+3. Tuliskan pada file markdown tahun kuliah
+4. Pull Request pastikan tidak konflik
