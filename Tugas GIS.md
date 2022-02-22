@@ -8,3 +8,4 @@ Nomor Urut. Nama NPM Link Tugas, contoh
 
 
 ## Pertemuan 14 : Konfigurasi Mapproxy
+1. 1194005 Artha Glory Romey Manurung (https://youtu.be/FaJsiugD7Pw)
